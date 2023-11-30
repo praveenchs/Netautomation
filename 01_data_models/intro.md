@@ -25,5 +25,5 @@ This Data Model has 2 types of data :
 
 1.  Attributes(-) : which basically means how to identify the person. We identify a person by their name ,gender and Age .
    
-2.  Methods (+): This type of data talks about what actions can this person perform . Eat,Sleep,talk
+3.  Methods (+): This type of data talks about what actions can this person perform . Eat,Sleep,talk
 
